@@ -10,8 +10,9 @@ For daily usage:
 2. Run GetOpenTabs in the command window.
 
 If the MATLAB editor and previously opened file structure get out of sync:
-1. Manually re-mount the (usually) remote drive where the analysis scripts are found.
-2. Run the LoadPreviousEditorSpace function with the corresponding parameters: SearchPath (i.e. "H:\Analysis\"), and NewDriveLetterForFiles (i.e. "H:").
+1. Close all non-essential editor tabs.
+2. Manually re-mount the (usually) remote drive where the analysis scripts are found.
+3. Run the LoadPreviousEditorSpace function with the corresponding parameters: SearchPath (i.e. "H:\Analysis\"), and NewDriveLetterForFiles (i.e. "H:").
 
 For assistance:
 `help LoadPreviousEditorSpace`
