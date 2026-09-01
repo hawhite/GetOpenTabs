@@ -18,4 +18,5 @@ For assistance:
 `help LoadPreviousEditorSpace`
 
 Version Log:
+
 v1.0: Original Files, added readme to Github page.
