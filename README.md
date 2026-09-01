@@ -17,6 +17,5 @@ If the MATLAB editor and previously opened file structure get out of sync:
 For assistance:
 `help LoadPreviousEditorSpace`
 
-Version Log:
-
-v1.0: Original Files, added readme to Github page.
+# Version Log
+v1.0 [20260901]: Original Files, added readme to Github page.
